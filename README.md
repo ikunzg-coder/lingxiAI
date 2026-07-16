@@ -7,7 +7,7 @@
 html
 
 #### 使用说明
-运行https://ikunzg-coder.github.io/lingxiAI/即可使用
+运行https://ikunzg-coder.github.io/lingxiAI/ 即可使用
 
 #### 参与贡献
 1.我自己
